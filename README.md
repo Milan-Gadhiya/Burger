@@ -22,12 +22,15 @@ Burger Builder is a mobile-friendly web application built using React.js for the
 ### Setup
 To install dependencies, run the following command in the terminal:
 
-'npm install'
+```bash
+npm install
+'''
 
 To start the application, run:
 
+```bash
 'npm run start'
-
+'''
 
 ## Screenshots
 - **Landing Page**
