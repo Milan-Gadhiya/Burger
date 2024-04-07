@@ -24,13 +24,13 @@ To install dependencies, run the following command in the terminal:
 
 ```bash
 npm install
-'''
+```
 
 To start the application, run:
 
 ```bash
 npm run start
-'''
+```
 
 ## Screenshots
 - **Landing Page**
