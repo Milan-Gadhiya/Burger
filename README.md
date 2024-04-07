@@ -29,7 +29,7 @@ npm install
 To start the application, run:
 
 ```bash
-'npm run start'
+npm run start
 '''
 
 ## Screenshots
